@@ -21,8 +21,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📈 GitHub Stats
-![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiruchenthils&show_icons=true&theme=tokyonight)
+
 
 ## 📫 Reach Me
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiruchenthils2023)
