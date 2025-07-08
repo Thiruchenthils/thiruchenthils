@@ -21,5 +21,5 @@
 ![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ## 📫 Reach Me
-- LinkedIn: [www.linkedin.com/in/
-](#)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiruchenthils2023)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiruchenthils.cse2023@citchennai.net)
