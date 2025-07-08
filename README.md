@@ -21,5 +21,5 @@
 ![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ## 📫 Reach Me
-- LinkedIn: [YourLinkedIn](#)
-- Twitter: [@yourhandle](#)
+- LinkedIn: [www.linkedin.com/in/
+](#)
