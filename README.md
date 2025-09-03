@@ -2,8 +2,7 @@
 👋 Hey, I'm Thiru!
 🎓 Pre - Final year CSE student at CITAR, Anna University  
 🛠️ Currently building my skills in full-stack development, Java, Python, and AI  
-💡 I believe in learning by do![Uploading Unknown.png…]()
-ing things rather than  just studying 
+💡 I believe in learning by doing things rather than  just studying 
 
 ---
 
