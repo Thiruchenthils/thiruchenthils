@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/thiruchenthils/thiruchenthils/main/banner.png" alt="banner" width="100%" />
-# 👋 Hey, I'm Thiru!
+👋 Hey, I'm Thiru!
 
 🎓 Pre - Final year CSE student at CITAR, Anna University  
 🛠️ Currently building my skills in full-stack development, Java, Python, and AI  
