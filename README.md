@@ -1,4 +1,3 @@
-<img src="![Uploading Unknown.png…]()
 👋 Hey, I'm Thiru!
 🎓 Pre - Final year CSE student at CITAR, Anna University  
 🛠️ Currently building my skills in full-stack development, Java, Python, and AI  
